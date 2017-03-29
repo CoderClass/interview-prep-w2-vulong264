@@ -1,4 +1,4 @@
-## iPrep Week 2: Big O and Hashtables
+## Topics: Big O and Hashtables
 
 * **Big O Notation**: Describing an algorithm's complexity
 * **Hashtables**: Stores data with key value pairs
@@ -11,19 +11,22 @@ What you will submit:
 
 **Big O Notation**
 
-- [ ] Watch [Big O Notation](https://www.youtube.com/watch?v=v4cd1O4zkGw)(8m)
-  - I have learned that...
-- [ ] Read [Big O Notation in plain English](http://stackoverflow.com/questions/487258/what-is-a-plain-english-explanation-of-big-o-notation) and write down what you learned from it
-  - I have learned that...
-- [ ] Visit http://bigocheatsheet.com/ and think about how useful it could be to you
-  - This sheet makes more sense to me now /OR/ This sheet does not make sense to me.
-- [ ] Watch LogN in 5m: https://www.youtube.com/watch?v=kjDR1NBB9MU
-  - I have learned that...
+- [x] Watch [Big O Notation](https://www.youtube.com/watch?v=v4cd1O4zkGw)(8m)
+  - 1. Different steps get added
+  - 2. Drop constants
+  - 3. Different inputs create different variables
+  - 4. Drop non-dominate terms
+- [x] Read [Big O Notation in plain English](http://stackoverflow.com/questions/487258/what-is-a-plain-english-explanation-of-big-o-notation) and write down what you learned from it
+  - I have learned that it's best to organize our data in binary tree structure
+- [x] Visit http://bigocheatsheet.com/ and think about how useful it could be to you
+  - This sheet makes more sense to me now. Good place for a quick check next time I gonna write that searching/sorting algorithm
+- [x] Watch LogN in 5m: https://www.youtube.com/watch?v=kjDR1NBB9MU
+  - I have done binary search for a while when I started working as a dev. I built a java lib for tariff plan look up during charge rate calcutation in our Telco Billing Software back then. So this is nothing new, but I've never knew Binary Search can lead to this: https://www.youtube.com/watch?v=ZIwmZ9m0byI . Just beautiful!!!
   
 **Hashtables**
 
-- [ ] Read [InterviewCake Hashtable](https://www.interviewcake.com/concept/java/hash-map?)
-- [ ] Watch concept video: [HackerRank Video: Hash Tables](https://www.youtube.com/watch?v=shs0KM3wKv8) (6m)
+- [x] Read [InterviewCake Hashtable](https://www.interviewcake.com/concept/java/hash-map?)
+- [x] Watch concept video: [HackerRank Video: Hash Tables](https://www.youtube.com/watch?v=shs0KM3wKv8) (6m)
 
 Extras: 
 - [ ] [Introducing Hash Tables](https://www.youtube.com/watch?v=MfhjkfocRR0) (7m)
@@ -31,8 +34,8 @@ Extras:
 
 **Coding**
 
-- [ ] Set up an account on Interviewbit.com and start the [Programming course](https://www.interviewbit.com/courses/programming/)
-- [ ] Finish at least 2 tasks on Exercism
+- [x] Set up an account on Interviewbit.com and start the [Programming course](https://www.interviewbit.com/courses/programming/)
+- [x] Finish at least 2 tasks on Exercism
 
 ### Optional tasks
 
